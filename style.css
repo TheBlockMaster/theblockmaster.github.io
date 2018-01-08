@@ -1,0 +1,9 @@
+body, td, th {font-size:8pt; font-family:Tahoma,arial,sans-serif;}
+a.menu {color:#09496F; text-decoration:none;}
+a.menu:hover {text-decoration:underline;}
+.orange {color:#FF9130;}
+.ifr {font-size:7.5pt; font-family:verdana;}
+body
+{
+background-image:url(http://image.prntscr.com/image/fa68458b668a4f37a133b93cffe50f01.png);
+}
